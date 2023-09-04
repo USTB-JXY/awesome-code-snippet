@@ -2,6 +2,17 @@
 gdb 
 thread apply all bt
 
+You can attach to a running process with gdb -p PID.
+
+Yes. You can do:
+
+gdb program_name program_pid
+
+A shortcut would be (assuming only one instance is running):
+
+gdb program_name `pidof program_name`
+
+
 删除 install 的库文件
 xargs rm < install_manifest.txt
 
