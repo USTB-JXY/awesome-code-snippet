@@ -20,6 +20,7 @@ git config --global https.proxy https://127.0.0.1:7890
 
 
 git log
+ git status
 git add chinese-ebook/*
 git commit -m 'add folder'
 git push -u origin main
