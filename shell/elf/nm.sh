@@ -1,0 +1,1 @@
+nm -g programname | grep "U "

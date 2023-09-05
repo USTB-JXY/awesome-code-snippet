@@ -2,6 +2,7 @@
 gdb 
 thread apply all bt
 
+attach 已有的进程
 You can attach to a running process with gdb -p PID.
 
 Yes. You can do:
