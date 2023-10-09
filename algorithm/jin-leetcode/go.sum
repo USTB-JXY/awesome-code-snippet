@@ -1,0 +1,4 @@
+github.com/halfrost/LeetCode-Go/structures v0.0.0-20230408040206-3200de1f73f5 h1:f1Z/na9xa9jkDocCH+OK1R44JM2+NUk5vXLvAKmkeLM=
+github.com/halfrost/LeetCode-Go/structures v0.0.0-20230408040206-3200de1f73f5/go.mod h1:PiB3scEe5vQhgf3BFfrj/wwApeH+2yyPRF3Jqpq+7AY=
+github.com/halfrost/LeetCode-Go/template v0.0.0-20230408040206-3200de1f73f5 h1:3u4InpJaAcIqy+w/+h8VORANCEWr2ECr7WVenkycn1M=
+github.com/halfrost/LeetCode-Go/template v0.0.0-20230408040206-3200de1f73f5/go.mod h1:Jiujq5ltPAr2X9Aw8KYqm8nzL02b73UtrVhryu383ag=

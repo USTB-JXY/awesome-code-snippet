@@ -13,6 +13,8 @@ A shortcut would be (assuming only one instance is running):
 
 gdb program_name `pidof program_name`
 
+# 显示源码窗口
+(gdb) layout src
 
 删除 install 的库文件
 xargs rm < install_manifest.txt

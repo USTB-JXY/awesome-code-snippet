@@ -1,0 +1,1 @@
+tcpdump -A -i ens33 port 10000
